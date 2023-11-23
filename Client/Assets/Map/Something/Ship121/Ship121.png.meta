@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: f4958f8acf78c2b4aba828ef215c47eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5021544463810331439
+    second: Ship121_0
+  - first:
+      213: -3803080665385022356
+    second: Ship121_1
+  - first:
+      213: 2676698971398876177
+    second: Ship121_2
+  - first:
+      213: 6171172674954344119
+    second: Ship121_3
+  - first:
+      213: -4215266764036724579
+    second: Ship121_4
+  - first:
+      213: 3419434446379278104
+    second: Ship121_5
+  - first:
+      213: -4385536467699502422
+    second: Ship121_6
+  - first:
+      213: -3777735663978100378
+    second: Ship121_7
+  - first:
+      213: 4705209340565419351
+    second: Ship121_8
+  - first:
+      213: 4465919895115413591
+    second: Ship121_9
+  - first:
+      213: -197084810920009927
+    second: Ship121_10
+  - first:
+      213: 5373096642425840740
+    second: Ship121_11
+  - first:
+      213: 2018670276480207166
+    second: Ship121_12
+  - first:
+      213: -2566764922083065043
+    second: Ship121_13
+  - first:
+      213: -2591833607890288719
+    second: Ship121_14
+  - first:
+      213: 1667029649193128830
+    second: Ship121_15
+  - first:
+      213: 1959347143019893303
+    second: Ship121_16
+  - first:
+      213: 3607919194306808163
+    second: Ship121_17
+  - first:
+      213: -4519878695317336560
+    second: Ship121_18
+  - first:
+      213: -7218786871952452765
+    second: Ship121_19
+  - first:
+      213: 2292023169091962733
+    second: Ship121_20
+  - first:
+      213: -9190123403295993355
+    second: Ship121_21
+  - first:
+      213: -7573850874655911558
+    second: Ship121_22
+  - first:
+      213: -906170034129231600
+    second: Ship121_23
+  - first:
+      213: -4092359672044574119
+    second: Ship121_24
+  - first:
+      213: 5963959218313697215
+    second: Ship121_25
+  - first:
+      213: 7393880848915607687
+    second: Ship121_26
+  - first:
+      213: -939111703213317341
+    second: Ship121_27
+  - first:
+      213: -6861552797838358576
+    second: Ship121_28
+  - first:
+      213: 8034077858742000915
+    second: Ship121_29
+  - first:
+      213: 2856352241406869844
+    second: Ship121_30
+  - first:
+      213: 3605213538995945436
+    second: Ship121_31
+  - first:
+      213: -2905164281778121628
+    second: Ship121_32
+  - first:
+      213: -989911230002998895
+    second: Ship121_33
+  - first:
+      213: 7649000872658107000
+    second: Ship121_34
+  - first:
+      213: -601887879657933168
+    second: Ship121_35
+  - first:
+      213: -4032232650447177211
+    second: Ship121_36
+  - first:
+      213: 4361334925819605347
+    second: Ship121_37
+  - first:
+      213: -1797737407572490276
+    second: Ship121_38
+  - first:
+      213: 1265811033607642916
+    second: Ship121_39
+  - first:
+      213: 2325089041339506128
+    second: Ship121_40
+  - first:
+      213: -3195860495462923793
+    second: Ship121_41
+  - first:
+      213: 1598566235777317309
+    second: Ship121_42
+  - first:
+      213: 1374330243974931382
+    second: Ship121_43
+  - first:
+      213: 4384068517548968378
+    second: Ship121_44
+  - first:
+      213: -9035792500835307196
+    second: Ship121_45
+  - first:
+      213: -4933609741177405716
+    second: Ship121_46
+  - first:
+      213: 509675497633749286
+    second: Ship121_47
+  - first:
+      213: -4346803625516808360
+    second: Ship121_48
+  - first:
+      213: 797766659067857064
+    second: Ship121_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ship121_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 176
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f238e35a51c10b540800000000000000
+      internalID: 5021544463810331439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship121_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 176
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cc19fc84eb83bc0800000000000000
+      internalID: -3803080665385022356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship121_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 176
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c22e0688b852520800000000000000
+      internalID: 2676698971398876177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ef6282f1a835cd546a110bb9a2136f5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ship121_2: 2676698971398876177
+      Ship121_0: 5021544463810331439
+      Ship121_1: -3803080665385022356
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

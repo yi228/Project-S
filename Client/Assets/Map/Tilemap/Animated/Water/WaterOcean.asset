@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: WaterOcean
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 8284224295729658398, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -2635170997530717345, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -1414188744760952013, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -316075277014925193, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 2831848766391271943, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 6168676407568037934, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 4341198851317751899, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -4495047006307179859, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -2397338468398141329, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 7220358891186845357, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 4805876198850896516, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -2623667499711013000, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -7889710254627301312, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -8685398522078905372, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 1798040122276782019, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 3171277937052326038, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -4090352184505997521, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -4759753823504871851, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -6636912742878138016, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -6585284977492999008, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 3162170466075883871, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 7543347199367813718, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 5487400930832288044, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 4990770853221635360, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -5067213928949341633, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -7294897142781514785, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: 7849968369588761125, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -425908103739645032, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -4711322247543742824, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -1010061341447147671, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -5109509786552495357, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  - {fileID: -7484712644695381951, guid: 1cdb32ab1d21ac941962156fe1dc0915, type: 3}
+  m_MinSpeed: 18
+  m_MaxSpeed: 18
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: WaterLake
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 5966355201541811943, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: -3707659482422814353, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: 307698979809474145, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: 4132931564862374145, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: 4470269999965644043, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: 3162039583774054537, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: 3169382245871119519, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: -6852557548019076708, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: -528097679078265729, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: -1507300429751870372, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: -4944826282579613543, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: 4807725746809052381, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: -4990893111018313298, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: 4906537320940691657, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: -157102319780929034, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  - {fileID: 8149583296785536237, guid: 6d74e71c55a12a44683531509a0a5e2f, type: 3}
+  m_MinSpeed: 24
+  m_MaxSpeed: 24
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

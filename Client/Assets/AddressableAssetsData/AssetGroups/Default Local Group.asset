@@ -1,0 +1,290 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f8a4c27cfc608774f9451e5c68b5a66f
+  m_SerializeEntries:
+  - m_GUID: 3bd1063790389d24f83bf69fcaf3e185
+    m_Address: MyPlayer_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 289372916f828b44299073e78d45a526
+    m_Address: UI_Minimap
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 605de162ab24bcd4d989a3d640600fdd
+    m_Address: MyPlayer_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 68cc5042cec71df40b53e8cc95d38753
+    m_Address: Player_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 921be5de24924dd4ead06d424ddfa276
+    m_Address: MyPlayer_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 6286ccba2659cbe488515802cab84a4d
+    m_Address: UI_EnemyHpBar
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 50717dfb33cfae14ea0a6cb2bffed2db
+    m_Address: UI_Gold
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: eaa59d7a5b787224fb9d6bf80bd57325
+    m_Address: UI_Timer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: cd9ba6c840597c24b8008cc63b67800b
+    m_Address: Player_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 97d83d60ecf34464a806e15174a97bcf
+    m_Address: Player_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 3b83fcaf5d5c7854cab9e420d42f1c44
+    m_Address: BuffDarkroomUI
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 03feb75f916756648b3efb716fd849ef
+    m_Address: LobbySetting
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 8ed75d06f584bd64c8fca6eb7e2234cb
+    m_Address: UI_MovingTilt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 7dfe87f0d0176ea46a29825697eba0a4
+    m_Address: UI_DamageText
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: dbbc4a63548ddcb42a3c99278539b8f1
+    m_Address: Bat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: ad5c0ef290092b342ad8bfcfa00a5396
+    m_Address: UI_Pause
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 29a304735ee393f4391ec5f6bedb9f0e
+    m_Address: UI_HpBar
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 7196e32944dd82f4b88d1d0bee485750
+    m_Address: Spector
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 482391c087c34d44f81517d60d625391
+    m_Address: Bush
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: f52311355379126499f8623f56e308a8
+    m_Address: UI_Weapon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 54cae132974cb724eb248e4566628b68
+    m_Address: UI_PlayerManual
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: e5dc60c37c90be64ba0c0a8494e62b0c
+    m_Address: LevelUpEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 3ca158ae32aed3f448eff9d1e094b11e
+    m_Address: UI_Dead
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 3bc016e4cf9789f42b86f35db7e5ad86
+    m_Address: Golem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 90ca1396b8bb4964990f786b9a9413b1
+    m_Address: MyPlayer_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 687a83740cd716f4e895c0e91f191043
+    m_Address: UI_FireTilt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 6fc118ac9347a5449947817970cfc0c5
+    m_Address: UI_PortalCool
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: e05640b713279be4ea35ced053857820
+    m_Address: HitEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 8db5b4d36133f6b469128ad8d50ca848
+    m_Address: UI_Ranking
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: e1eff45b2c548fa48a18b5e4c69ed81e
+    m_Address: UI_EndGame
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 9f3a795b1d605bc4a8c7c1581bf5b9d6
+    m_Address: DieEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: c7240dbf6533db14b907cb513b6d18d0
+    m_Address: Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: d3c1813f34da1f94bba5e59066b70dda
+    m_Address: UI_PortalDes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 1b4409d0d3244944e8b6375797291b7f
+    m_Address: Dragon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 1d7755c66519fae44a54bf85f58bbbbf
+    m_Address: UI_Level
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: afbb1fc8b9abbb4418b09ce0ddff63ca
+    m_Address: Player_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: e185e842a5939ba4585bf10a944c014c
+    m_Address: LightUI
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 7b9724810699af94788596acdf491dce
+    m_Address: EvilMage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 6f78491c1281b7c4ca16c06f6e7a7ecb
+    m_Address: UI_BuffManual
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 2c0b56f54bba3cb47a1a89564329149b
+    m_Address: MonsterPlant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: a99d394cad3dd674e96e743fb15c0c76
+    m_Address: UI_SystemTextViewer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 6c7c99cd89b2d974d93e83902ba20c0a
+    m_Address: Pause
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 801608231e669824fbbc9838270e9f7f
+    m_Address: DarkroomUI
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 707dc81198026e24ca9912cdae7e8cfd
+    m_Address: Lizard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 8c2361e063e61a94e9dbfc36bae0f2b4
+    m_Address: TextViewer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: b5fd83468421e9d409a60199beeb85c8
+    m_Address: Darkroom
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 98280ae5afd107140b3602c3bf24df3b
+    m_Address: SpeedBuff
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 0215e63ba16c793419b2bd682e5c5871
+    m_Address: LigthBuff
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: ad89967bb3a9c6648954bbe8064eddc6
+    m_Address: AttackBuff
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: c9b1226546950a142b52dfd332ca56e1
+    m_Address: SightBuff
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 2988fc76e6268354ea2b413b699bb552
+    m_Address: HpUpBuff
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 2735ebe943853974ab8fbd74e8625188
+    m_Address: MinimapCamera
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  - m_GUID: 0865b23efa16b844a9914f783f0362ef
+    m_Address: UI_ForceQuit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefab
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e3170df8c9dd4584fb49423e5a82dca6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d8a197ac373233e4fa7622804923748a, type: 2}
+    - {fileID: 11400000, guid: 382ee1ff6e5513145a529d94d485bc46, type: 2}

@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: b8a3a6ee9ccd33c458387fd355698cf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8391378650770258639
+    second: SimpleStones1
+  - first:
+      213: -1731536171416902837
+    second: SimpleStones2
+  - first:
+      213: -7276067511840796192
+    second: SimpleStones3
+  - first:
+      213: 1859317713754177507
+    second: SimpleStones10
+  - first:
+      213: 990795670078179555
+    second: SimpleStones11
+  - first:
+      213: 2220513367541624082
+    second: SimpleStones57
+  - first:
+      213: 7977478764060183257
+    second: SimpleStones16
+  - first:
+      213: 3928373936723160640
+    second: SimpleStones17
+  - first:
+      213: -7791335702898695340
+    second: SimpleStones_8
+  - first:
+      213: -3713266673202538731
+    second: SimpleStones20
+  - first:
+      213: -7248608443557706007
+    second: SimpleStones24
+  - first:
+      213: 9075598416824904491
+    second: SimpleStones21
+  - first:
+      213: 6421178987783118604
+    second: SimpleStones_12
+  - first:
+      213: -7800239107267550273
+    second: SimpleStones4
+  - first:
+      213: 8526669575305380194
+    second: SimpleStones5
+  - first:
+      213: 8683000872986595087
+    second: SimpleStones6
+  - first:
+      213: -7717846561217520919
+    second: SimpleStones12
+  - first:
+      213: -4460649124668974967
+    second: SimpleStones13
+  - first:
+      213: -1298264958846690698
+    second: SimpleStones_18
+  - first:
+      213: -2458015490779325523
+    second: SimpleStones18
+  - first:
+      213: -5810413768375157216
+    second: SimpleStones19
+  - first:
+      213: 4183693877718985925
+    second: SimpleStones_21
+  - first:
+      213: 6665477558352246484
+    second: SimpleStones25
+  - first:
+      213: -6940931123820549541
+    second: SimpleStones7
+  - first:
+      213: -1535315926408733944
+    second: SimpleStones8
+  - first:
+      213: 7370351793784510392
+    second: SimpleStones9
+  - first:
+      213: 8682903085365607080
+    second: SimpleStones14
+  - first:
+      213: -6027865321167727569
+    second: SimpleStones15
+  - first:
+      213: 7842325865736699570
+    second: SimpleStones_28
+  - first:
+      213: -2063259586176313688
+    second: SimpleStones_29
+  - first:
+      213: 6411320971012620671
+    second: SimpleStones_30
+  - first:
+      213: -6164205652182550222
+    second: SimpleStones_31
+  - first:
+      213: 6110147509306661944
+    second: SimpleStones26
+  - first:
+      213: 999473034892018466
+    second: SimpleStones27
+  - first:
+      213: -1850569867018232984
+    second: SimpleStones28
+  - first:
+      213: -6047578879978689526
+    second: SimpleStones29
+  - first:
+      213: -7478660395584170400
+    second: SimpleStones_36
+  - first:
+      213: 8914437044890212167
+    second: SimpleStones_37
+  - first:
+      213: 2159753406299965336
+    second: SimpleStones_38
+  - first:
+      213: -6501804197804625502
+    second: SimpleStones_39
+  - first:
+      213: 9049164767741731134
+    second: SimpleStones_40
+  - first:
+      213: 5164871745006815377
+    second: SimpleStones_41
+  - first:
+      213: 1337898981333282348
+    second: SimpleStones44
+  - first:
+      213: 9069438677781354879
+    second: SimpleStones45
+  - first:
+      213: 6147768051876389743
+    second: SimpleStones_44
+  - first:
+      213: 8089016688210833356
+    second: SimpleStones30
+  - first:
+      213: 2426063923261058734
+    second: SimpleStones31
+  - first:
+      213: 6469540648646513866
+    second: SimpleStones32
+  - first:
+      213: 3451812769347884250
+    second: SimpleStones_48
+  - first:
+      213: 7783284884405856284
+    second: SimpleStones36
+  - first:
+      213: 2853074768604401637
+    second: SimpleStones_50
+  - first:
+      213: -1442424289288701610
+    second: SimpleStones38
+  - first:
+      213: 3295883035228745014
+    second: SimpleStones_52
+  - first:
+      213: -8490727792069453473
+    second: SimpleStones_53
+  - first:
+      213: -7742757009800880670
+    second: SimpleStones_54
+  - first:
+      213: -550862889431197622
+    second: SimpleStones_55
+  - first:
+      213: -6452913407363711244
+    second: SimpleStones22
+  - first:
+      213: 3987930081931249847
+    second: SimpleStones23
+  - first:
+      213: -7437484000128097972
+    second: SimpleStones_58
+  - first:
+      213: -8600778725376966009
+    second: SimpleStones_59
+  - first:
+      213: 3795622530840030126
+    second: SimpleStones_60
+  - first:
+      213: -5532896446519245251
+    second: SimpleStones_61
+  - first:
+      213: 3858657567651171097
+    second: SimpleStones37
+  - first:
+      213: -7744900629188130147
+    second: SimpleStones_63
+  - first:
+      213: 5178671503856131783
+    second: SimpleStones39
+  - first:
+      213: -3969564250171116767
+    second: SimpleStones_65
+  - first:
+      213: -6962287408401202490
+    second: SimpleStones46
+  - first:
+      213: 216352984189021805
+    second: SimpleStones47
+  - first:
+      213: 7135571323564979852
+    second: SimpleStones_68
+  - first:
+      213: 3431358498367399213
+    second: SimpleStones_69
+  - first:
+      213: 5346867587663081008
+    second: SimpleStones_70
+  - first:
+      213: 1178027411990646003
+    second: SimpleStones_71
+  - first:
+      213: -6769753943271536922
+    second: SimpleStones33
+  - first:
+      213: -8195365216593272539
+    second: SimpleStones34
+  - first:
+      213: -5597866296757499844
+    second: SimpleStones_74
+  - first:
+      213: 1244056866352613167
+    second: SimpleStones_75
+  - first:
+      213: 1617072521760175512
+    second: SimpleStones_76
+  - first:
+      213: 3245963781060825905
+    second: SimpleStones_77
+  - first:
+      213: -511937204633880331
+    second: SimpleStones48
+  - first:
+      213: -3375461086962952454
+    second: SimpleStones49
+  - first:
+      213: 7932314997337905408
+    second: SimpleStones_80
+  - first:
+      213: 932077540223719483
+    second: SimpleStones50
+  - first:
+      213: -6688327273202718865
+    second: SimpleStones51
+  - first:
+      213: 7095814901206402994
+    second: SimpleStones_83
+  - first:
+      213: 68938720739197164
+    second: SimpleStones52
+  - first:
+      213: 3854312929448318165
+    second: SimpleStones_85
+  - first:
+      213: -934802376316804115
+    second: SimpleStones_86
+  - first:
+      213: -5245232623945808840
+    second: SimpleStones_87
+  - first:
+      213: 7131302842679467076
+    second: SimpleStones_88
+  - first:
+      213: 5150851151688542462
+    second: SimpleStones40
+  - first:
+      213: 4439411231558610787
+    second: SimpleStones_90
+  - first:
+      213: -5215344291294720396
+    second: SimpleStones42
+  - first:
+      213: 5818521567436269530
+    second: SimpleStones_92
+  - first:
+      213: 2071392992101533187
+    second: SimpleStones_93
+  - first:
+      213: -3863134431244634862
+    second: SimpleStones_94
+  - first:
+      213: 8009970624411133148
+    second: SimpleStones_95
+  - first:
+      213: 2693515002805940544
+    second: SimpleStones_96
+  - first:
+      213: 858468863868556112
+    second: SimpleStones_97
+  - first:
+      213: -5121811046716726513
+    second: SimpleStones53
+  - first:
+      213: 4863929403640256776
+    second: SimpleStones_99
+  - first:
+      213: 7008501812358232733
+    second: SimpleStones35
+  - first:
+      213: 7754931844818160311
+    second: SimpleStones_101
+  - first:
+      213: -3068219646292240091
+    second: SimpleStones_102
+  - first:
+      213: 7853788009450961475
+    second: SimpleStones41
+  - first:
+      213: -5856605264109182017
+    second: SimpleStones_104
+  - first:
+      213: -4872862759168569960
+    second: SimpleStones43
+  - first:
+      213: -4189042416410092515
+    second: SimpleStones_106
+  - first:
+      213: -559304348001959924
+    second: SimpleStones54
+  - first:
+      213: 8506641938000897621
+    second: SimpleStones55
+  - first:
+      213: -6465396159882540956
+    second: SimpleStones56
+  - first:
+      213: 1621174838699516856
+    second: SimpleStones_110
+  - first:
+      213: 5201003305775028375
+    second: SimpleStones_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SimpleStones1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135ca099395db8b80800000000000000
+      internalID: -8391378650770258639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43a4f2b60958f7e0800000000000000
+      internalID: -1731536171416902837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e118f2f527360b90800000000000000
+      internalID: -7276067511840796192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb8ec0c9f9dc910800000000000000
+      internalID: 1859317713754177507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e84108996300cd00800000000000000
+      internalID: 990795670078179555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da870f5ba2b5be60800000000000000
+      internalID: 7977478764060183257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e69433843648630800000000000000
+      internalID: 3928373936723160640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517577b62a3d77cc0800000000000000
+      internalID: -3713266673202538731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e688dd7605c76b90800000000000000
+      internalID: -7248608443557706007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b22feeca003fd70800000000000000
+      internalID: 9075598416824904491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb325300cdbffb390800000000000000
+      internalID: -7800239107267550273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26145317dc0d45670800000000000000
+      internalID: 8526669575305380194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fc5ca1a47308870800000000000000
+      internalID: 8683000872986595087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ead8a78173b4e490800000000000000
+      internalID: -7717846561217520919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988d27031479812c0800000000000000
+      internalID: -4460649124668974967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabd0bb2fef53edd0800000000000000
+      internalID: -2458015490779325523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eb5f966734d5fa0800000000000000
+      internalID: -5810413768375157216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d67ceb2688808c50800000000000000
+      internalID: 6665477558352246484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a2932eaebdcaf90800000000000000
+      internalID: -6940931123820549541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b5864ac4671bae0800000000000000
+      internalID: -1535315926408733944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7503a18efb84660800000000000000
+      internalID: 7370351793784510392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa3c562a5edf7870800000000000000
+      internalID: 8682903085365607080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24d6e96d68b85ca0800000000000000
+      internalID: -6027865321167727569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c167969ca9bc450800000000000000
+      internalID: 6110147509306661944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22302570e67dedd00800000000000000
+      internalID: 999473034892018466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b165cb2847156e0800000000000000
+      internalID: -1850569867018232984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c27b3dc0fa21ca0800000000000000
+      internalID: -6047578879978689526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e2ab7f80c219210800000000000000
+      internalID: 1337898981333282348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79985dec6e1ddd70800000000000000
+      internalID: 9069438677781354879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones30
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf630b02d5f14070800000000000000
+      internalID: 8089016688210833356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaead5cc84c1ba120800000000000000
+      internalID: 2426063923261058734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4968e51fc68c950800000000000000
+      internalID: 6469540648646513866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ada06d58c30c60800000000000000
+      internalID: 7783284884405856284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6593d8d40ca7bfbe0800000000000000
+      internalID: -1442424289288701610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fefabbe175a276a0800000000000000
+      internalID: -6452913407363711244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b84b92d749f75730800000000000000
+      internalID: 3987930081931249847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b88bd1d94bc8530800000000000000
+      internalID: 3858657567651171097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce58c38b465ed740800000000000000
+      internalID: 5178671503856131783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c242166d7cf06f90800000000000000
+      internalID: -6962287408401202490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eaea094e3a00300800000000000000
+      internalID: 216352984189021805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6008208a00d02a0800000000000000
+      internalID: -6769753943271536922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ad54a1c6344e80800000000000000
+      internalID: -8195365216593272539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8bd7223db35e8f0800000000000000
+      internalID: -511937204633880331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af65b6e7604f721d0800000000000000
+      internalID: -3375461086962952454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b389720a5976fec00800000000000000
+      internalID: 932077540223719483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67e13308c94e23a0800000000000000
+      internalID: -6688327273202718865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce00ee8b66be4f000800000000000000
+      internalID: 68938720739197164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8ae4305df7b7740800000000000000
+      internalID: 5150851151688542462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e4408cfff5f97b0800000000000000
+      internalID: -5215344291294720396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0327c15dfbabe8b0800000000000000
+      internalID: -5121811046716726513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a3b450443334160800000000000000
+      internalID: 7008501812358232733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34afb8c55924efc60800000000000000
+      internalID: 7853788009450961475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d0788532d106cb0800000000000000
+      internalID: -4872862759168569960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c000308a8a3fc38f0800000000000000
+      internalID: -559304348001959924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556ebf1c5c9ad0670800000000000000
+      internalID: 8506641938000897621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones56
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468c60e927c4646a0800000000000000
+      internalID: -6465396159882540956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleStones57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d235b9429d0de10800000000000000
+      internalID: 2220513367541624082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b4fb9f49621b7374b90bad6a254aa06e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SimpleStones29: -6047578879978689526
+      SimpleStones22: -6452913407363711244
+      SimpleStones49: -3375461086962952454
+      SimpleStones40: 5150851151688542462
+      SimpleStones15: -6027865321167727569
+      SimpleStones57: 2220513367541624082
+      SimpleStones16: 7977478764060183257
+      SimpleStones35: 7008501812358232733
+      SimpleStones55: 8506641938000897621
+      SimpleStones21: 9075598416824904491
+      SimpleStones33: -6769753943271536922
+      SimpleStones53: -5121811046716726513
+      SimpleStones6: 8683000872986595087
+      SimpleStones56: -6465396159882540956
+      SimpleStones45: 9069438677781354879
+      SimpleStones43: -4872862759168569960
+      SimpleStones31: 2426063923261058734
+      SimpleStones2: -1731536171416902837
+      SimpleStones11: 990795670078179555
+      SimpleStones30: 8089016688210833356
+      SimpleStones20: -3713266673202538731
+      SimpleStones51: -6688327273202718865
+      SimpleStones39: 5178671503856131783
+      SimpleStones52: 68938720739197164
+      SimpleStones12: -7717846561217520919
+      SimpleStones27: 999473034892018466
+      SimpleStones7: -6940931123820549541
+      SimpleStones44: 1337898981333282348
+      SimpleStones25: 6665477558352246484
+      SimpleStones23: 3987930081931249847
+      SimpleStones4: -7800239107267550273
+      SimpleStones8: -1535315926408733944
+      SimpleStones1: -8391378650770258639
+      SimpleStones5: 8526669575305380194
+      SimpleStones9: 7370351793784510392
+      SimpleStones50: 932077540223719483
+      SimpleStones28: -1850569867018232984
+      SimpleStones24: -7248608443557706007
+      SimpleStones26: 6110147509306661944
+      SimpleStones10: 1859317713754177507
+      SimpleStones41: 7853788009450961475
+      SimpleStones36: 7783284884405856284
+      SimpleStones3: -7276067511840796192
+      SimpleStones37: 3858657567651171097
+      SimpleStones17: 3928373936723160640
+      SimpleStones54: -559304348001959924
+      SimpleStones38: -1442424289288701610
+      SimpleStones46: -6962287408401202490
+      SimpleStones14: 8682903085365607080
+      SimpleStones47: 216352984189021805
+      SimpleStones42: -5215344291294720396
+      SimpleStones34: -8195365216593272539
+      SimpleStones19: -5810413768375157216
+      SimpleStones48: -511937204633880331
+      SimpleStones18: -2458015490779325523
+      SimpleStones32: 6469540648646513866
+      SimpleStones13: -4460649124668974967
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

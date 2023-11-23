@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Reeds1
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 5062028797298513138, guid: 803c5d4c0d784dc42b8bef2162a0d8f3, type: 3}
+  - {fileID: 7720820153578994403, guid: 803c5d4c0d784dc42b8bef2162a0d8f3, type: 3}
+  - {fileID: 6015456717680200484, guid: 803c5d4c0d784dc42b8bef2162a0d8f3, type: 3}
+  - {fileID: 1581767621935480485, guid: 803c5d4c0d784dc42b8bef2162a0d8f3, type: 3}
+  - {fileID: 6015456717680200484, guid: 803c5d4c0d784dc42b8bef2162a0d8f3, type: 3}
+  - {fileID: 7720820153578994403, guid: 803c5d4c0d784dc42b8bef2162a0d8f3, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

@@ -1,0 +1,1739 @@
+fileFormatVersion: 2
+guid: 958b19f6a6ddf364d9f5ccd3b75885eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6345973258979516902
+    second: GrassTundra1
+  - first:
+      213: -8337589634016021006
+    second: GrassTundra2
+  - first:
+      213: 3614087609708110412
+    second: GrassTundra3
+  - first:
+      213: 2363096717719910693
+    second: GrassTundra4
+  - first:
+      213: -1889270876411435349
+    second: GrassTundra5
+  - first:
+      213: -2634989855728117374
+    second: GrassTundra6
+  - first:
+      213: 702208615392194897
+    second: GrassTundra7
+  - first:
+      213: -4664010528386435258
+    second: GrassTundra8
+  - first:
+      213: 1779424186955160924
+    second: GrassTundra9
+  - first:
+      213: 2769205633878611277
+    second: GrassTundra10
+  - first:
+      213: 2078429762840627408
+    second: GrassTundra11
+  - first:
+      213: 9172363198804037231
+    second: GrassTundra12
+  - first:
+      213: -1853756895768081747
+    second: GrassTundra13
+  - first:
+      213: 2452167689592942528
+    second: GrassTundra14
+  - first:
+      213: -1399604732437422270
+    second: GrassTundra15
+  - first:
+      213: 5028841745335937155
+    second: GrassTundra16
+  - first:
+      213: -4793941415116433075
+    second: GrassTundra17
+  - first:
+      213: 3042060272050218905
+    second: GrassTundra18
+  - first:
+      213: 4419979593068653545
+    second: GrassTundra19
+  - first:
+      213: -2874809422983065978
+    second: GrassTundra20
+  - first:
+      213: -1341431888867007988
+    second: GrassTundra21
+  - first:
+      213: -5341671644139465248
+    second: GrassTundra22
+  - first:
+      213: -5049219092593608165
+    second: GrassTundra23
+  - first:
+      213: 6270001218915696467
+    second: GrassTundra24
+  - first:
+      213: -5684383844858659098
+    second: GrassTundra25
+  - first:
+      213: 9171836555230159229
+    second: GrassTundra26
+  - first:
+      213: -2722381099175554469
+    second: GrassTundra27
+  - first:
+      213: 2093081586280714446
+    second: GrassTundra28
+  - first:
+      213: 1854107690528667478
+    second: GrassTundra29
+  - first:
+      213: -3668367773375828129
+    second: GrassTundra54
+  - first:
+      213: -3367828372487905317
+    second: GrassTundra54
+  - first:
+      213: -1640629124112464189
+    second: GrassTundra55
+  - first:
+      213: -3388715673631646230
+    second: GrassTundra31
+  - first:
+      213: -4906896704263617327
+    second: GrassTundra55
+  - first:
+      213: -3800110283987291557
+    second: GrassTundra33
+  - first:
+      213: 2758106229039637403
+    second: GrassTundra34
+  - first:
+      213: 3718614976546062486
+    second: GrassTundra35
+  - first:
+      213: -6298945610908931085
+    second: GrassTundra36
+  - first:
+      213: -7333295380096600229
+    second: GrassTundra37
+  - first:
+      213: 7016526854301127684
+    second: GrassTundra38
+  - first:
+      213: -8724584067744466881
+    second: GrassTundra39
+  - first:
+      213: -7848120504070696085
+    second: GrassTundra40
+  - first:
+      213: 5037375957448319540
+    second: GrassTundra41
+  - first:
+      213: -1723792120019900569
+    second: GrassTundra42
+  - first:
+      213: 1122719538579374573
+    second: GrassTundra43
+  - first:
+      213: -1067479885832959507
+    second: GrassTundra44
+  - first:
+      213: -8899234523160669676
+    second: GrassTundra45
+  - first:
+      213: 3229501155869588209
+    second: GrassTundra46
+  - first:
+      213: -1547993401964147701
+    second: GrassTundra47
+  - first:
+      213: -7716840098818146817
+    second: GrassTundra48
+  - first:
+      213: -2867888451574805080
+    second: GrassTundra49
+  - first:
+      213: 345966721663469486
+    second: GrassTundra50
+  - first:
+      213: 7694201145204936065
+    second: GrassTundra51
+  - first:
+      213: -1720843199875633150
+    second: GrassTundra52
+  - first:
+      213: -657958997591479572
+    second: GrassTundra53
+  - first:
+      213: -4287315990432135672
+    second: GrassTundra56
+  - first:
+      213: -2990503220638393596
+    second: GrassSavanna1
+  - first:
+      213: 613049696273235228
+    second: GrassSavanna2
+  - first:
+      213: 8586412473422578819
+    second: GrassSavanna3
+  - first:
+      213: -1204654438458106946
+    second: GrassSavanna10
+  - first:
+      213: -884198279334351243
+    second: GrassSavanna11
+  - first:
+      213: 1621544957537076762
+    second: GrassSavanna16
+  - first:
+      213: -5094770108010831130
+    second: GrassSavanna17
+  - first:
+      213: -460971172811835910
+    second: GrassSavanna20
+  - first:
+      213: -319557522871878217
+    second: GrassSavanna24
+  - first:
+      213: 2792416612548575325
+    second: GrassSavanna21
+  - first:
+      213: 4682918057110411349
+    second: GrassSavanna4
+  - first:
+      213: 8969722326060058936
+    second: GrassSavanna5
+  - first:
+      213: 4476389972340175493
+    second: GrassSavanna6
+  - first:
+      213: 3857021244173764987
+    second: GrassSavanna12
+  - first:
+      213: -5966307626850513952
+    second: GrassSavanna13
+  - first:
+      213: 987599619231326421
+    second: GrassSavanna18
+  - first:
+      213: 2863284058947758621
+    second: GrassSavanna19
+  - first:
+      213: 6782277943595060256
+    second: GrassSavanna25
+  - first:
+      213: 8997295161753508877
+    second: GrassSavanna7
+  - first:
+      213: 3413941739434782536
+    second: GrassSavanna8
+  - first:
+      213: -8736641223818986802
+    second: GrassSavanna9
+  - first:
+      213: 7454848486719418041
+    second: GrassSavanna14
+  - first:
+      213: -3415757129593937263
+    second: GrassSavanna15
+  - first:
+      213: -7180687028401971774
+    second: GrassSavanna26
+  - first:
+      213: -8340373491457030410
+    second: GrassSavanna27
+  - first:
+      213: -263267869578290269
+    second: GrassSavanna28
+  - first:
+      213: -8791090260489480049
+    second: GrassSavanna29
+  - first:
+      213: -3355609506108143470
+    second: GrassSavanna44
+  - first:
+      213: -6872637939463502714
+    second: GrassSavanna45
+  - first:
+      213: -5034182347140843971
+    second: GrassSavanna30
+  - first:
+      213: -6063234089023491733
+    second: GrassSavanna31
+  - first:
+      213: 8015408765722739059
+    second: GrassSavanna32
+  - first:
+      213: -8529691711610403907
+    second: GrassSavanna36
+  - first:
+      213: -8743843621778825338
+    second: GrassSavanna38
+  - first:
+      213: 3037418287542284646
+    second: GrassSavanna22
+  - first:
+      213: 9214789298406783295
+    second: GrassSavanna23
+  - first:
+      213: 9075425244404307522
+    second: GrassSavanna37
+  - first:
+      213: 8078601819708753898
+    second: GrassSavanna39
+  - first:
+      213: 6646215909053715942
+    second: GrassSavanna46
+  - first:
+      213: 3357101722873640776
+    second: GrassSavanna47
+  - first:
+      213: -7646256520271866142
+    second: GrassSavanna33
+  - first:
+      213: 4875104333384495769
+    second: GrassSavanna34
+  - first:
+      213: -4702376238648384751
+    second: GrassSavanna48
+  - first:
+      213: 1802926935166964499
+    second: GrassSavanna49
+  - first:
+      213: -3073320765734443547
+    second: GrassSavanna50
+  - first:
+      213: -5625130050366723235
+    second: GrassSavanna51
+  - first:
+      213: -2966467134833215388
+    second: GrassSavanna52
+  - first:
+      213: 6564337988004936165
+    second: GrassSavanna40
+  - first:
+      213: -3185208324546527994
+    second: GrassSavanna42
+  - first:
+      213: 7855687219166220496
+    second: GrassSavanna53
+  - first:
+      213: -8412648959394087867
+    second: GrassSavanna35
+  - first:
+      213: -349065606473826255
+    second: GrassSavanna41
+  - first:
+      213: -5126717310574047342
+    second: GrassSavanna43
+  - first:
+      213: -5381261757890954123
+    second: GrassSavanna54
+  - first:
+      213: -2329349468387923856
+    second: GrassSavanna55
+  - first:
+      213: -5662301548332000163
+    second: GrassSavanna56
+  - first:
+      213: 280031448942229219
+    second: GrassSavanna57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrassSavanna1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bdf2a4a299f76d0800000000000000
+      internalID: -2990503220638393596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df600637df18800800000000000000
+      internalID: 613049696273235228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384065dd6a0192770800000000000000
+      internalID: 8586412473422578819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb5b96bb25384fe0800000000000000
+      internalID: -1204654438458106946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ea3418952bab3f0800000000000000
+      internalID: -884198279334351243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16c25d2c82e08610800000000000000
+      internalID: 1621544957537076762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e26cbb749dbb49b0800000000000000
+      internalID: -5094770108010831130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5fad0292d4a99f0800000000000000
+      internalID: -460971172811835910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdfae34024b09bf0800000000000000
+      internalID: -319557522871878217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d508bdf3d18a0c620800000000000000
+      internalID: 2792416612548575325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558145a69211df040800000000000000
+      internalID: 4682918057110411349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83943b29eeada7c70800000000000000
+      internalID: 8969722326060058936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582f47186f45f1e30800000000000000
+      internalID: 4476389972340175493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79cc1ed264e68530800000000000000
+      internalID: 3857021244173764987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb0fd003da633da0800000000000000
+      internalID: -5966307626850513952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d028940f98a4bd00800000000000000
+      internalID: 987599619231326421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aae986ead6cb720800000000000000
+      internalID: 2863284058947758621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c43fb0bdd7f1e50800000000000000
+      internalID: 6782277943595060256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c98a7a740dcdc70800000000000000
+      internalID: 8997295161753508877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fa3e69ce1c06f20800000000000000
+      internalID: 3413941739434782536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca3c3c781731c680800000000000000
+      internalID: -8736641223818986802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bee4418331f47760800000000000000
+      internalID: 7454848486719418041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ab83fcfac890d0800000000000000
+      internalID: -3415757129593937263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd58dc4133195c90800000000000000
+      internalID: -7180687028401971774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f68e9baf7a014c80800000000000000
+      internalID: -8340373491457030410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab1309744fa85cf0800000000000000
+      internalID: -263267869578290269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88d02b3cf5cff580800000000000000
+      internalID: -8791090260489480049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2980087deea7e61d0800000000000000
+      internalID: -3355609506108143470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684c764f43c7f90a0800000000000000
+      internalID: -6872637939463502714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna30
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36b028d3ddf22ab0800000000000000
+      internalID: -5034182347140843971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6137bd68b01bdba0800000000000000
+      internalID: -6063234089023491733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371c4721ec37c3f60800000000000000
+      internalID: 8015408765722739059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db34edd949270a980800000000000000
+      internalID: -8529691711610403907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fde488d80a7a680800000000000000
+      internalID: -8743843621778825338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661bb3fe6d3172a20800000000000000
+      internalID: 3037418287542284646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f397b9b7b0281ef70800000000000000
+      internalID: 9214789298406783295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246d4561d2362fd70800000000000000
+      internalID: 9075425244404307522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae780918d85fc1070800000000000000
+      internalID: 8078601819708753898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e552b7f72a1c3c50800000000000000
+      internalID: 6646215909053715942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8473cb2fa32d69e20800000000000000
+      internalID: 3357101722873640776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e65ea7d43a03e590800000000000000
+      internalID: -7646256520271866142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992b952df89d7a340800000000000000
+      internalID: 4875104333384495769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1132027a9bdcdbeb0800000000000000
+      internalID: -4702376238648384751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3135c96ce78450910800000000000000
+      internalID: 1802926935166964499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e52195fb0f5955d0800000000000000
+      internalID: -3073320765734443547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b248cb5068fe1b0800000000000000
+      internalID: -5625130050366723235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468356e9bddf4d6d0800000000000000
+      internalID: -2966467134833215388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f2a8ee96391b50800000000000000
+      internalID: 6564337988004936165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d79cf97eddbc3d0800000000000000
+      internalID: -3185208324546527994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d09af497e1050d60800000000000000
+      internalID: 7855687219166220496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c7143f754404b80800000000000000
+      internalID: -8412648959394087867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13042da2eaed72bf0800000000000000
+      internalID: -349065606473826255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f436fb4cd3ad8b0800000000000000
+      internalID: -5126717310574047342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf38d31fae155b0800000000000000
+      internalID: -5381261757890954123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0782efafffc7cafd0800000000000000
+      internalID: -2329349468387923856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cd680fdb67b61b0800000000000000
+      internalID: -5662301548332000163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassSavanna57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6b3208e1fd2e300800000000000000
+      internalID: 280031448942229219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d1e83fdb134a6c74eba0e211eac44d08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GrassSavanna33: -7646256520271866142
+      GrassSavanna55: -2329349468387923856
+      GrassSavanna43: -5126717310574047342
+      GrassSavanna30: -5034182347140843971
+      GrassSavanna31: -6063234089023491733
+      GrassSavanna28: -263267869578290269
+      GrassSavanna38: -8743843621778825338
+      GrassSavanna11: -884198279334351243
+      GrassSavanna32: 8015408765722739059
+      GrassSavanna16: 1621544957537076762
+      GrassSavanna6: 4476389972340175493
+      GrassSavanna17: -5094770108010831130
+      GrassSavanna1: -2990503220638393596
+      GrassSavanna24: -319557522871878217
+      GrassSavanna36: -8529691711610403907
+      GrassSavanna18: 987599619231326421
+      GrassSavanna48: -4702376238648384751
+      GrassSavanna45: -6872637939463502714
+      GrassSavanna19: 2863284058947758621
+      GrassSavanna42: -3185208324546527994
+      GrassSavanna20: -460971172811835910
+      GrassSavanna35: -8412648959394087867
+      GrassSavanna56: -5662301548332000163
+      GrassSavanna39: 8078601819708753898
+      GrassSavanna26: -7180687028401971774
+      GrassSavanna53: 7855687219166220496
+      GrassSavanna27: -8340373491457030410
+      GrassSavanna46: 6646215909053715942
+      GrassSavanna57: 280031448942229219
+      GrassSavanna12: 3857021244173764987
+      GrassSavanna54: -5381261757890954123
+      GrassSavanna14: 7454848486719418041
+      GrassSavanna8: 3413941739434782536
+      GrassSavanna22: 3037418287542284646
+      GrassSavanna9: -8736641223818986802
+      GrassSavanna10: -1204654438458106946
+      GrassSavanna50: -3073320765734443547
+      GrassSavanna52: -2966467134833215388
+      GrassSavanna23: 9214789298406783295
+      GrassSavanna5: 8969722326060058936
+      GrassSavanna4: 4682918057110411349
+      GrassSavanna25: 6782277943595060256
+      GrassSavanna7: 8997295161753508877
+      GrassSavanna49: 1802926935166964499
+      GrassSavanna51: -5625130050366723235
+      GrassSavanna34: 4875104333384495769
+      GrassSavanna3: 8586412473422578819
+      GrassSavanna15: -3415757129593937263
+      GrassSavanna44: -3355609506108143470
+      GrassSavanna37: 9075425244404307522
+      GrassSavanna40: 6564337988004936165
+      GrassSavanna21: 2792416612548575325
+      GrassSavanna13: -5966307626850513952
+      GrassSavanna29: -8791090260489480049
+      GrassSavanna47: 3357101722873640776
+      GrassSavanna41: -349065606473826255
+      GrassSavanna2: 613049696273235228
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: DeadBush1
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1033228977112625606, guid: 365ac0e97271c3a4e95350001db5a350, type: 3}
+  - {fileID: 693016852187429371, guid: 365ac0e97271c3a4e95350001db5a350, type: 3}
+  - {fileID: 7697355898240188191, guid: 365ac0e97271c3a4e95350001db5a350, type: 3}
+  - {fileID: 4547856939256533590, guid: 365ac0e97271c3a4e95350001db5a350, type: 3}
+  - {fileID: 7697355898240188191, guid: 365ac0e97271c3a4e95350001db5a350, type: 3}
+  - {fileID: 693016852187429371, guid: 365ac0e97271c3a4e95350001db5a350, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 6
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
