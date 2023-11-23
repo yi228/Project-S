@@ -13,19 +13,19 @@ public class SingleBoss_1400_Controller : SingleMonsterBossController
         }
         else if (boss.hp > maxHp * 0.5)
         {
-            _canChase = true;
+            FollowPlayer();
             Rotate();
             anim.SetBool("isAttack", true);
         }
         else if (boss.hp > maxHp * 0.25)
         {
-            _canChase = false;
+            StopFollow();
             anim.SetBool("isAttack", false);
             FireBall(true, true, true);
         }
         else if (boss.hp > 0)
         {
-            _canChase = true;
+            FollowPlayer();
             Rotate();
             anim.SetBool("isAttack", true);
             FireBall(false, true, true);

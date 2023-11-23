@@ -4,6 +4,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class Status
 {
@@ -31,6 +32,7 @@ public class SingleMonsterController : CreatureController
     private bool _iconOn = false;
     protected int _singleMonsterId;
     public AudioSource AudioSource;
+    private NavMeshAgent navMesh;
 
     public int SingleMonsterId { get { return _singleMonsterId; } set { _singleMonsterId = value; } }
     public SingleMyPlayerController Target { get { return _target; } set { _target = value; } }
@@ -40,12 +42,13 @@ public class SingleMonsterController : CreatureController
     void Start()
     {
         Init();
+        prevPos = transform.position;
     }
     void Update()
     {
         UpdateAnimation();
         CheckTarget();
-        if (_target != null)
+        if (_target != null && State == CreatureState.Moving)
             Rotate();
     }
     protected override void Init()
@@ -61,6 +64,11 @@ public class SingleMonsterController : CreatureController
         //_hpBar.Monster = this;
         //_hpBar.transform.position = transform.position;
         AudioSource = GetComponent<AudioSource>();
+        navMesh = GetComponent<NavMeshAgent>();
+        navMesh.enabled = true;
+        navMesh.speed = _stat.speed;
+        navMesh.updateRotation = false;
+        navMesh.updateUpAxis = false;
         SetTarget();
     }
     protected override void UpdateAnimation()
@@ -95,7 +103,9 @@ public class SingleMonsterController : CreatureController
     }
     protected void Rotate()
     {
-        Vector2 value = GetComponent<MovementController2D>().moveDir;
+        Vector2 value = prevPos - transform.position;
+        prevPos = transform.position;
+        value.Normalize();
         float dist = Vector2.Distance(_target.transform.position, transform.position);
         if (dist <= _stat.attackRange)
             value = transform.position - _target.transform.position;
@@ -111,17 +121,24 @@ public class SingleMonsterController : CreatureController
     protected void CheckTarget()
     {
         float dist = Vector2.Distance(_target.transform.position, transform.position);
-        if (dist <= _stat.checkRange)
+        navMesh.SetDestination(_target.transform.position);
+        navMesh.isStopped = true;
+        State = CreatureState.Idle;
+        if (dist <= _stat.checkRange && navMesh.remainingDistance <= _stat.checkRange)
             FollowTarget();
     }
     protected virtual void FollowTarget()
     {
-        _canChase = true;
         State = CreatureState.Moving;
+        //navMesh.SetDestination(_target.transform.position);
         float dist = Vector2.Distance(_target.transform.position, transform.position);
         if (dist <= _stat.attackRange && _canAttack)
+        {
+            navMesh.isStopped = true;
             StartCoroutine(CoAttack());
-
+        }
+        else if(dist > _stat.attackRange)
+            navMesh.isStopped = false;
     }
     public override void OnDamaged()
     {

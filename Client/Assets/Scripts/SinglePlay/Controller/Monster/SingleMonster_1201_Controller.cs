@@ -12,8 +12,8 @@ public class SingleMonster_1201_Controller : SingleMonsterController
     }
     protected override void Init()
     {
-        base.Init();
         InitStat();
+        base.Init();
         SingleMonsterId = 1201;
     }
 

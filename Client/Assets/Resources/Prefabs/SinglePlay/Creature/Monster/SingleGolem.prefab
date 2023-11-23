@@ -14,8 +14,8 @@ GameObject:
   - component: {fileID: 29112648078217670}
   - component: {fileID: 8802938733061366377}
   - component: {fileID: -5771679127848470056}
-  - component: {fileID: 484749538924346156}
   - component: {fileID: 5520785642380778594}
+  - component: {fileID: -7541095835459136258}
   m_Layer: 0
   m_Name: SingleGolem
   m_TagString: Monster
@@ -243,25 +243,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &484749538924346156
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4614530058156827786}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9a9b1b0f1b7052745a71c828edb13530, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  gridSize: 1
-  obstacles:
-    serializedVersion: 2
-    m_Bits: 72
-  searchShortcut: 1
-  snapToGrid: 1
-  drawDebugLines: 1
 --- !u!114 &5520785642380778594
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -284,3 +265,25 @@ MonoBehaviour:
   _canChase: 0
   _canAttack: 1
   AudioSource: {fileID: 0}
+--- !u!195 &-7541095835459136258
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4614530058156827786}
+  m_Enabled: 0
+  m_AgentTypeID: 0
+  m_Radius: 0.24
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 0.92
+  m_BaseOffset: 0.58
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4

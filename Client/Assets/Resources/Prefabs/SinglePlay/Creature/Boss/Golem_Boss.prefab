@@ -465,9 +465,9 @@ GameObject:
   - component: {fileID: 3911504459064416563}
   - component: {fileID: 3911504459064416564}
   - component: {fileID: 2553046530626430550}
-  - component: {fileID: 3111867810538491389}
   - component: {fileID: 5660008128736548155}
   - component: {fileID: 3592079329817824699}
+  - component: {fileID: 372715137095304346}
   m_Layer: 0
   m_Name: Golem
   m_TagString: BossMonster
@@ -599,25 +599,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &3111867810538491389
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3911504459064416571}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a0ccbff06b40efe469ac538d24b65a82, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  gridSize: 2
-  obstacles:
-    serializedVersion: 2
-    m_Bits: 72
-  searchShortcut: 0
-  snapToGrid: 0
-  drawDebugLines: 0
 --- !u!114 &5660008128736548155
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -662,6 +643,28 @@ MonoBehaviour:
   phaseChange: 1
   maxHp: 0
   instantiateInterval: 0.3
+--- !u!195 &372715137095304346
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3911504459064416571}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.21
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 1.66
+  m_BaseOffset: 0.73
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
 --- !u!1 &3911504459185079719
 GameObject:
   m_ObjectHideFlags: 0

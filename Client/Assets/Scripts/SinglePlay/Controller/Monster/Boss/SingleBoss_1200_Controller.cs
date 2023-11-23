@@ -17,12 +17,12 @@ public class SingleBoss_1200_Controller : SingleMonsterBossController
         }
         else if (boss.hp > maxHp * 0.25)
         {
-            _canChase = true;
+            FollowPlayer();
             LookAtPlayer(false, true);
         }
         else if (boss.hp > 0)
         {
-            _canChase = true;
+            FollowPlayer();
             FireBall(false, true, true);
         }
         else

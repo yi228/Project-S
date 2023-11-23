@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 using UnityEngine.UI;
 public class SingleMonsterBossController : CreatureController
 {
@@ -15,8 +16,14 @@ public class SingleMonsterBossController : CreatureController
     private float lastInstantiateTime; // 마지막으로 Instantiate가 호출된 시간
     public float instantiateInterval = 0.3f; // Instantiate를 호출할 간격 (1초로 설정)
     public SingleMyPlayerController Target { get { return _target; } set { _target = value; } }
+    private NavMeshAgent navMesh;
     void Start()
     {
+        navMesh = GetComponent<NavMeshAgent>();
+        navMesh.enabled = true;
+        navMesh.speed = boss.movingspeed;
+        navMesh.updateRotation = false;
+        navMesh.updateUpAxis = false;
         _target = FindObjectOfType<SingleMyPlayerController>();
         boss=GetComponent<BossMonster>();
         anim=GetComponent<Animator>();
@@ -132,5 +139,18 @@ public class SingleMonsterBossController : CreatureController
             collision.GetComponent<SingleMyPlayerController>().Hp -= boss.damage;
             collision.GetComponent<SingleMyPlayerController>().OnDamaged();
         }
+    }
+    protected void FollowPlayer()
+    {
+        navMesh.SetDestination(_target.transform.position);
+        float dist = Vector2.Distance(_target.transform.position, transform.position);
+        if (dist <= 3)
+            navMesh.isStopped = true;
+        else
+            navMesh.isStopped = false;
+    }
+    protected void StopFollow()
+    {
+        navMesh.isStopped = true;
     }
 }

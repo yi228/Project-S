@@ -13,8 +13,8 @@ public class SingleMonster_1100_Controller : SingleMonsterController
     }
     protected override void Init()
     {
-        base.Init();
         InitStat();
+        base.Init();
         SingleMonsterId = 1100;
     }
     private void InitStat()
@@ -24,7 +24,7 @@ public class SingleMonster_1100_Controller : SingleMonsterController
         _stat.maxHp = 50;
         _stat.attack = 20;
         _stat.defense = 0;
-        _stat.speed = 5;
+        _stat.speed = 3;
         _stat.checkRange = 7;
         _stat.attackRange = 2;
         _stat.missDist = 20;
