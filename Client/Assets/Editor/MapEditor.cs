@@ -38,19 +38,19 @@ public class MapEditor
         
         for (int y = tmBase.cellBounds.yMax; y >= tmBase.cellBounds.yMin; y--)
         {
-            string line = "";
+            StringBuilder line = new StringBuilder();
             for (int x = tmBase.cellBounds.xMin; x <= tmBase.cellBounds.xMax; x++)
             {
                 TileBase tile = tm.GetTile(new Vector3Int(x, y, 0));
                 if (tile != null)
                 {
-                    line += "1";
+                    line.Append("1");
                     count++;
                 }
                 else
-                    line += "0";
+                    line.Append("0");
             }
-            writer.WriteLine(line);
+            writer.WriteLine(line.ToString());
         }
         writer.Close();
 
