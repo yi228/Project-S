@@ -1,0 +1,477 @@
+syntax = "proto3";
+
+package Protocol;
+import "google/protobuf/timestamp.proto";
+option csharp_namespace = "Google.Protobuf.Protocol";
+
+enum MsgId {
+  S_ENTER_GAME = 0;
+  S_LEAVE_GAME = 1;
+  S_SPAWN = 2;
+  S_DESPAWN = 3;
+  C_MOVE = 4;
+  S_MOVE = 5;
+  C_SKILL = 6;
+  S_SKILL = 7;
+  C_HIT_PLAYER = 8;
+  S_HIT_PLAYER = 9;
+  C_HIT_MONSTER = 10;
+  S_HIT_MONSTER = 11;
+  S_FIND_PLAYER = 12;
+  S_CHANGE_HP = 13;
+  S_DIE = 14;
+  C_ENTER_ROOM = 15;
+  S_ENTER_ROOM = 16;
+  S_START_GAME = 17;
+  C_LEAVE_GAME = 18;
+  S_END_GAME = 19;
+  S_LEAVE_ROOM = 20;
+  S_LEVEL_UP = 21;
+  C_LEVEL_UP = 22;
+  S_GET_EXP = 23;
+  C_GET_EXP = 24;
+  S_CHANGE_STAT = 25;
+  C_CHANGE_STAT = 26;
+  S_CHANGE_STATE = 27;
+  C_CHANGE_STATE = 28;
+  C_CHANGE_ROTZ = 29;
+  S_CHANGE_ROTZ = 30;
+  C_OUT_GAME = 31;
+  C_CHECK_INFO = 32;
+  C_CHANGE_WEAPON_TYPE = 33;
+  S_CHANGE_WEAPON_TYPE = 34;
+  C_PLAY_SOUND = 35;
+  S_PLAY_SOUND = 36;
+  S_COUNT_TIME = 37;
+  C_CHANGE_GOLD = 38;
+  S_CHANGE_GOLD = 39;
+  C_USE_TELEPORT = 40;
+  S_USE_TELEPORT = 41;
+  S_VIEW_TEXT = 42;
+  S_DESTROY_PORTAL = 43;
+  C_CHANGE_HP = 44;
+  C_CHANGE_SPEED = 45;
+  S_CHANGE_SPEED = 46;
+  C_CHANGE_ATTACK = 47;
+  S_CHANGE_ATTACK = 48;
+  C_CHANGE_SIGHT = 49;
+  S_CHANGE_SIGHT = 50;
+  C_SHOP_BUFF = 51;
+  S_ADD_BLOCK = 52;
+  S_BREAK_BLOCK = 53;
+  S_MAP_MANIPULATION = 54;
+  C_MAP_MANIPULATION = 55;
+  S_FORCE_QUIT = 56;
+}
+
+enum CreatureState {
+  IDLE = 0;
+  MOVING = 1;
+  FIRE = 2;
+  SKILL = 3;
+  DEAD = 4;
+  CHASING = 5;
+}
+enum GameObjectType{
+  NONE = 0;
+  PLAYER = 1;
+  MONSTER = 2;
+  PROJECTILE = 3;
+  BUFF = 4;
+}
+
+enum WeaponType{
+  DEFAULT = 0;
+  PISTOL = 1;
+  RIFLE = 2;
+  SNIPER = 3;
+  SHOTGUN = 4;
+}
+
+enum MonsterType{
+  MONSTER_NONE = 0;
+  BAT = 1;
+  MONSTER_PLANT = 2;
+  DRAGON = 3;
+  EVIL_MAGE = 4;
+  GOLEM = 5;
+  LIZARD = 6;
+  SPECTOR = 7;
+}
+
+enum SystemMSGType{
+  MSGTYPE_NONE = 0;
+  MAP_CLOSE_REMINDER = 1;
+  MAP_CLOSE_NOW = 2;
+  MAP_MATCH = 3;
+}
+
+enum AreaType{
+  AREA_NONE = 0;
+  FOREST = 1;
+  DESERT = 2;
+  SNOWLAND = 3;
+  OCEAN = 4;
+}
+
+enum BuffType{
+  BUFF_NONE = 0;
+  HP = 1;
+  SPEED = 2;
+  ATTACK = 3;
+  SIGHT = 4;
+  LIGHT = 5;
+}
+
+enum ShopBuffType{
+  SHOP_BUFF_NONE = 0;
+  SHOP_BLOCK = 1;
+  SHOP_ATTACK = 2;
+  SHOP_SPEED = 3;
+  SHOP_SIGHT = 4;
+}
+
+message S_EnterGame {
+  ObjectInfo object = 1;
+}
+
+message S_LeaveGame {
+  int32 playerCount = 1;
+  bool isAttacked = 2;
+}
+
+message S_Spawn {
+  repeated ObjectInfo objects = 1;
+}
+
+message S_Despawn {
+  repeated int32 objectIds = 1;
+  int32 playerCount = 2;
+  bool canRespawn = 3;
+} 
+
+message C_Move {
+  PositionInfo posInfo = 1;
+  bool useTeleport = 2;
+}
+
+message S_Move {
+  int32 objectId = 1;
+  PositionInfo posInfo = 2;
+  float bulletScaleBuff = 3;
+  bool useTeleport = 4;
+}
+
+message C_Skill{
+  SkillInfo info = 1;
+  repeated DirVector dirVector = 2;
+  Stat stat = 3;
+  repeated PositionInfo posInfo = 4;
+  bool isBulletBuff = 5;
+  float playerRotz = 6;
+  WeaponType weaponType = 7;
+}
+
+message S_Skill{
+  int32 objectId = 1;
+  SkillInfo info = 2;
+  CreatureState state = 3;
+  repeated PositionInfo posInfo = 4;
+  float playerRotz = 5;
+  WeaponType weaponType = 6;
+}
+
+message C_HitPlayer{
+  ObjectInfo hitterObjectInfo = 1;
+  ObjectInfo enemyObjectInfo = 2;
+  int32 bulletId = 3;
+}
+
+message S_HitPlayer{
+  int32 clientId = 1;
+  ObjectInfo hitterObjectInfo = 2;
+  ObjectInfo enemyObjectInfo = 3;
+}
+
+message C_HitMonster{
+  ObjectInfo hitterObjectInfo = 1;
+  ObjectInfo enemyObjectInfo = 2;
+  int32 bulletId = 3;
+}
+
+message S_HitMonster{
+  ObjectInfo hitterObjectInfo = 1;
+  ObjectInfo enemyObjectInfo = 2;
+}
+
+message S_FindPlayer{
+  int32 monsterId = 1;
+  int32 playerId = 2;
+}
+
+message S_ChangeHp {
+  int32 objectId = 1;
+  float hp = 2;
+  bool isBuff = 3;
+  int32 buffId = 4;
+}
+
+message S_Die {
+  int32 objectId = 1;
+  int32 hitterId = 2;
+}
+
+message C_EnterRoom{
+  bool canEnter = 1;
+  WeaponType weaponType = 2;
+}
+
+message S_EnterRoom{
+  bool canEnter = 1;
+  int32 playerCount = 2;
+  int32 maxPlayer = 3;
+  int32 delayBeforeStartGame = 4;
+  float packetTick = 5;
+}
+
+message S_StartGame{
+  bool isStartGame = 1;
+}
+
+message C_LeaveGame{
+  bool leaveGame = 1;
+}
+
+message S_LeaveRoom{
+  int32 playerCount = 1;
+}
+
+message S_EndGame{
+  bool isGameEnd = 1;
+}
+
+message S_LevelUp{
+  int32 objectId = 1;
+  int32 exp = 2;
+}
+
+message C_LevelUp{
+  int32 exp = 1;
+}
+
+message S_GetExp{
+  int32 objectId = 1;
+  int32 exp = 2;
+  int32 totalExp = 3;
+  int32 level = 4;
+}
+
+message C_GetExp{
+  int32 exp = 1;
+}
+
+message S_ChangeStat{
+  int32 objectId = 1;
+  Stat stat = 2;
+}
+
+message C_ChangeStat{
+  Stat stat = 1;
+}
+
+message S_ChangeState{
+  int32 objectId = 1;
+  CreatureState state = 2;
+}
+
+message C_ChangeState{
+  CreatureState state = 1;
+}
+
+message S_ChangeRotz{
+  int32 objectId = 1;
+  float rotZ = 2;
+}
+
+message C_ChangeRotz{
+  float rotZ = 1;
+}
+
+message C_OutGame{
+  int32 objectId = 1;
+}
+
+message C_CheckInfo{
+  int32 id = 1;
+  float rotZ = 2;
+}
+
+message C_ChangeWeaponType{
+  WeaponType weaponType = 1;
+}
+
+message S_ChangeWeaponType{
+  int32 objectId = 1;
+  WeaponType weaponType = 2;
+}
+
+message C_PlaySound{
+  string path = 1;
+  bool isNotPlayer = 2;
+  int32 notPlayerId = 3;
+}
+
+message S_PlaySound{
+  string path = 1;
+  int32 objectId = 2;
+}
+
+message S_CountTime{
+  int32 time = 1;
+}
+
+message C_ChangeGold{
+  int32 gold = 1;
+}
+
+message S_ChangeGold{
+  int32 gold = 1;
+  int32 objectId = 2;
+}
+
+message C_UseTeleport{
+  PositionInfo posInfo = 1;
+}
+
+message S_UseTeleport{
+  PositionInfo posInfo = 1;
+  int32 objectId = 2;
+}
+
+message S_ViewText{
+  int32 areaId = 1;
+  DirVector spawnPos = 2;
+  int32 objectId = 3;
+  SystemMSGType msgType = 4;
+}
+
+message S_DestroyPortal{
+  int32 areaId = 1;
+}
+
+message C_ChangeHp{
+  float hp = 1;
+  bool isBuff = 2;
+  int32 buffId = 3;
+}
+
+message C_ChangeSpeed{
+  float speed = 1;
+  bool isBuff = 2;
+  int32 buffId = 3;
+}
+
+message S_ChangeSpeed{
+  float speed = 1;
+  bool isBuff = 2;
+  int32 objectId = 3;
+  int32 buffId = 4;
+}
+
+message C_ChangeAttack{
+  float attack = 1;
+  bool isBuff = 2;
+  int32 buffId = 3;
+}
+
+
+message S_ChangeAttack{
+  float attack = 1;
+  bool isBuff = 2;
+  int32 objectId = 3;
+  int32 buffId = 4;
+}
+
+message C_ChangeSight{
+  float sight = 1;
+  bool isBuff = 2;
+  int32 buffId = 3;
+}
+
+message S_ChangeSight{
+  float sight = 1;
+  bool isBuff = 2;
+  int32 objectId = 3;
+  int32 buffId = 4;
+}
+
+message S_AddBlock{
+  bool isBuff = 1;
+  int32 objectId = 2;
+}
+
+message C_AddBlock{
+  bool isBuff = 1;
+}
+
+message C_ShopBuff{
+  bool isBuff = 1;
+  ShopBuffType type = 2;
+}
+
+message S_ShopBuff{
+  bool isBuff = 1;
+  ShopBuffType type = 2;
+  int32 objectId = 3;
+}
+
+message S_BreakBlock{
+  int32 objectId = 1;
+}
+
+message S_MapManipulation{
+  string mapData = 1;
+}
+
+message C_MapManipulation{
+  string mapData = 1;
+}
+
+message S_ForceQuit{
+}
+
+message ObjectInfo {
+  int32 objectId = 1;
+  string name = 2;
+  PositionInfo posInfo = 3;
+  Stat stat = 4;
+  WeaponType weaponType = 5;
+  int32 gold = 6;
+}
+
+message PositionInfo {
+  CreatureState state = 1;
+  float posX = 2;
+  float posY = 3;
+  float rotZ = 4;
+}
+
+message DirVector{
+  float posX = 1;
+  float posY = 2;
+}
+
+message SkillInfo{
+  int32 skillId = 1;
+}
+
+message Stat{
+  float hp = 1;
+  float maxHp = 2;
+  float attack = 3;
+  float defense = 4;
+  float speed = 5;
+  float cameraSize = 6;
+  int32 cost = 7;
+  float coolTime = 8;
+}

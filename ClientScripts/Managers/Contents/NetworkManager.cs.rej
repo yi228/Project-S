@@ -1,0 +1,14 @@
+diff a/Client/Assets/Scripts/Managers/Contents/NetworkManager.cs b/Client/Assets/Scripts/Managers/Contents/NetworkManager.cs	(rejected hunks)
+@@ -20,9 +20,9 @@
+ 		// DNS (Domain Name System)
+ 		string host = Dns.GetHostName();
+ 		IPHostEntry ipHost = Dns.GetHostEntry(host);
+-		IPAddress ipAddr = IPAddress.Parse("52.79.182.202"); // for ec2
+-		//IPAddress ipAddr = ipHost.AddressList[1]; // for local test
+-		IPEndPoint endPoint = new IPEndPoint(ipAddr, 7777);
++        //IPAddress ipAddr = IPAddress.Parse("52.79.182.202"); // for ec2
++        IPAddress ipAddr = ipHost.AddressList[1]; // for local test
++        IPEndPoint endPoint = new IPEndPoint(ipAddr, 7777);
+ 
+ 		Connector connector = new Connector();
+ 
